@@ -1,2 +1,2 @@
-# repo4___@@SSSS
+# repo4
 ### This repository is for hacktoberfest 2022.
